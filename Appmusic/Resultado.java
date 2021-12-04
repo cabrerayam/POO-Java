@@ -1,0 +1,7 @@
+package tp3_ejercicio06_appmusic;
+
+public enum Resultado {
+	
+	OPERACION_EXITOSA, USUARIO_INEXISTENTE, CANCION_INEXISTENTE, LIMITE_ALCANZADO, CANCION_NO_DISPONIBLE
+
+}
